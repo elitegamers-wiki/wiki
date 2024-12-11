@@ -169,7 +169,7 @@ Facut de: **sNok3 & xSLOW**
 - Reparat un bug la inchiriat masini care facea sa nu mai poti urca pe motocicleta/atv/etc
 ```
 
-# Update 0.7.0
+## Update 0.7.0
 Facut de: **xSLOW**
 
 **Features/Changes**
