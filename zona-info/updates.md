@@ -202,3 +202,37 @@ Facut de: **xSLOW**
 - Rezolvat un bug la legat firele (aparea notificarea si dupa ce ieseai din masina)
 ```
 
+
+
+# Update 0.9.0
+Facut de: **sNok3 & xSLOW**
+**Features**
+```javascript
+- Adaugata bodycam personalizat
+- Adaugate mandate in MDT-ul politiei si afisaj pentru jucatori
+- Reskin la inventar cu o interfata mai moderna
+- Adaugate laboratoare diverse pentru mafii cu animatii pentru craftare
+- Rescris sistemul de crafting adaugand imbunatatiri si functionalitati noi (timp de crafting, crafting mobil, scene/animatii)
+- Creat un sistem de jaf la magazin interactionabil cu casierul.
+- Creat dealership pentru avioane/elicoptere
+- Creat garaj pentru avioane (in curand si pentru elicoptere)
+- Creat un sistem functional de plantatii (crestere plantei in timp, seminte, cules, animatii, fizici, etc)
+- Acum poti urca pe cineva pe targa si daca este viu
+- Adaugat lift pentru spital (etaj 1, 2 si acoperis pentru helipad)
+- Facut un sistem care previne blocarea jucatorului in interioare cu teleport (garaje, etc)
+- Acum la job-ul de taximetrist poti primi apel de la NPC
+- Adaugat magazin de homedepot care contine materiale pentru diverse joburi
+- Adaugate vehicule noi custom
+- Adaugat meniu pentru sirene si girofaruri pentru politie
+```
+**Bug fixes**
+```javascript
+- Reparat un bug care nu permitea alegerea uniformelor la job-uri
+- Reparate mici bug-uri la MDT-ul politiei care nu permiteau incarcarea anumitor date
+- Reparat un bug la jaful de atm-uri care facea sa nu mai poti da jaf din nou mai tarziu.
+- Rezolvate multe buguri la jobul de medic
+- Rezolvate bug-uri la permise/buletine
+- Rezolvat un bug la tuning care nu te permitea reparatia masinii
+- Rezolvat un bug la inventar care nu permitea datul de iteme
+- Rezolvat un mesaj in meniul liderului de factiune/jucator promovat/retrogradat
+```
