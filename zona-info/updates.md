@@ -202,10 +202,48 @@ Facut de: **xSLOW**
 - Rezolvat un bug la legat firele (aparea notificarea si dupa ce ieseai din masina)
 ```
 
+# Update 0.8.0
+Facut de: sNok3 & xSLOW
+
+**Features**
+```javascript
+- Adaugata optiunea de a selecta masina pentru care se doreste retinerea talonului la politisti
+- Schimbate ratele de spawn ale minereurilor la job-ul de miner
+- Adaugat MDT pentru politie
+- Imbunatatita performanta in baza de date pentru sistemul de tickete
+- Adaugat magazin pentru alimente in sectia de politie pentru politisti
+- La jobul de taxi de acum vei primi comenzi de la NPC-uri
+- La pescar au fost adaugate mai multe tipuri de momeala. Acestea se pot gasi, crafta sau cumpara din magazin
+- Adaugate blips-uri pe harta pentru pescar
+- Cand arati/iti este aratat buletinul iti va fi copiat automat CNP-ul pentru "copy-paste"
+- Adaugate camere video la politisti/
+- Adaugat sistem automat de amenzi pe baza MDT-ului de politie
+- Masinile acum pot fi tractate de catre mecanici cu vehiculele utilitare
+- Adaugata sansa de fail la miner nivel 2
+- Crafting-ul acum permite mai multe cantitati
+- Actualizate preturi
+- Sistemul de interactionare de la DMV a fost imbunatatit
+- Adaugat garaj pentru factiuni/mafii
+- Adaugat minimap pentru cayo perico
+- Acum itemele aruncate de pe jos se sterg la 15 minute
+```
+**Bug fixes**
+```javascript
+- Fixat un bug care nu permitea stergea banilor daca jucatorul ar fi avut o balanta negativa
+- Fixat un bug care nu permitea politistilor sa retina permisul si talonul
+- Adaugate mainile cu id 1 inapoi in magazinul de haine
+- Reparate descrierile la comenzi precum /gat, /top, etc.
+- Fixat scrisul de deasupra instructorului auto care nu era vizibil decat foarte aproape
+- Fixat un bug la taximetrist care facea ca costul cursei sa scada
+- Fixat un bug la soferul de autobuz care facea sa poti trece prin statie daca aveai cruise control
+- Fixat un bug la functia interna de incarcat vehiculele din baza de date
+```
+
+@everyone
 
 
 # Update 0.9.0
-Facut de: **sNok3 & xSLOW**
+Facut de: sNok3 & xSLOW
 **Features**
 ```javascript
 - Adaugata bodycam personalizat
