@@ -239,9 +239,6 @@ Facut de: sNok3 & xSLOW
 - Fixat un bug la functia interna de incarcat vehiculele din baza de date
 ```
 
-@everyone
-
-
 # Update 0.9.0
 Facut de: sNok3 & xSLOW
 **Features**
