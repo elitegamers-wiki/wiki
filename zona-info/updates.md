@@ -227,6 +227,7 @@ Facut de: sNok3 & xSLOW
 - Adaugat minimap pentru cayo perico
 - Acum itemele aruncate de pe jos se sterg la 15 minute
 ```
+
 **Bug fixes**
 ```javascript
 - Fixat un bug care nu permitea stergea banilor daca jucatorul ar fi avut o balanta negativa
@@ -260,6 +261,7 @@ Facut de: sNok3 & xSLOW
 - Adaugate vehicule noi custom
 - Adaugat meniu pentru sirene si girofaruri pentru politie
 ```
+
 **Bug fixes**
 ```javascript
 - Reparat un bug care nu permitea alegerea uniformelor la job-uri
