@@ -202,7 +202,7 @@ Facut de: **xSLOW**
 - Rezolvat un bug la legat firele (aparea notificarea si dupa ce ieseai din masina)
 ```
 
-# Update 0.8.0
+## Update 0.8.0
 Facut de: sNok3 & xSLOW
 
 **Features**
@@ -240,7 +240,7 @@ Facut de: sNok3 & xSLOW
 - Fixat un bug la functia interna de incarcat vehiculele din baza de date
 ```
 
-# Update 0.9.0
+## Update 0.9.0
 Facut de: sNok3 & xSLOW
 **Features**
 ```javascript
