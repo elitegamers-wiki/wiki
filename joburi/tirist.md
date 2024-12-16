@@ -12,6 +12,9 @@ Pentru a începe acest job, trebuie să ai un permis de conducere. Permisul se o
 :::details Locatie Primarie
 ![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
 :::
+:::details NPC
+![](https://i.imgur.com/HszOGhz.png){.framed-photo}
+:::
 In cazul vrei să accesezi Skill 2 - Șofer Avansat, ai nevoie de o licență suplimentară pentru transportul de mărfuri periculoase si X ore. Licența poate fi obținută de la patronul job-ului [NPC-ul], care costă 30.000 de euro și este obligatorie pentru cursele de acest tip.
 
 ## Informații suplimentare:
