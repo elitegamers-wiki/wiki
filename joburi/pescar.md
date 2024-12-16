@@ -31,6 +31,14 @@ Pe server, ai mai multe variante de a-ți procura momeala, fiecare cu avantajele
 1. Momeala cumpărată de la NPC:
 Este cea mai simplă și rapidă variantă. Dacă nu vrei să pierzi timp, poți merge la magazinul dedicat și să cumperi momeala direct, gata de folosit. Totuși, această opțiune poate deveni costisitoare pe termen lung. [/gps - Magazin pescar]
 
+:::details Momeala NPC
+![](https://i.imgur.com/t2AaCPS.png){.framed-photo}
+:::
+
+:::details Rame Premium
+![](https://i.imgur.com/ihPIqMZ.png){.framed-photo}
+:::
+
 2. Ramele culese manual:
 Pentru cei care vor să economisească bani, pot alege să culeagă rame din locația speciala marcata pe hartă care se regaseste si in [/gps]. Este o variantă mai ieftină, dar care necesită timp și un pic de efort.
 
