@@ -11,6 +11,12 @@ de trafic și având grijă să nu întâmpini accidente. Pe parcursul job-ului,
 ## Cum pot începe acest job?
 Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți obține de la secția de poliție, trecând mai întâi printr-un test teoretic, urmat de unul practic. După ce obții permisul, trebuie să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea te va introduce în meniul interactiv, de unde poți selecta locul de muncă dorit.
 
+:::details Locatie Primarie
+![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
+:::
+:::details NPC
+![](https://i.imgur.com/y4fhbHp.png){.framed-photo}
+:::
 După ce te-ai angajat de la Primărie, trebuie să mergi la locul de muncă de unde pleaca si taxi-urile, pe care îl găsești în [/gps - Jobs -> Taximetrist]. Dupa ce ai selectat masina dorita de la [Objectul Albastru] trebuie sa tastezi comanda [/duty] pentru a fi la datorie. P.S: Pentru a deschide meniul cu toate comenzile apasa tasta [/F7]. 
 
 ## Pe server avem două variante pentru acest job:
