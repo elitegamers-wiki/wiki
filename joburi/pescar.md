@@ -42,7 +42,7 @@ Este cea mai simplă și rapidă variantă. Dacă nu vrei să pierzi timp, poți
 2. Ramele culese manual:
 Pentru cei care vor să economisească bani, pot alege să culeagă rame din locația speciala marcata pe hartă care se regaseste si in [/gps]. Este o variantă mai ieftină, dar care necesită timp și un pic de efort.
 
-:::details Rame Premium
+:::details Locatia Rame Premium
 ![](https://i.imgur.com/yDtfbGZ.png){.framed-photo}
 :::
 
