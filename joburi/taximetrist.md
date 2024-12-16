@@ -18,10 +18,10 @@ Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți o
 ![](https://i.imgur.com/y4fhbHp.png){.framed-photo}
 :::
 După ce te-ai angajat de la Primărie, trebuie să mergi la locul de muncă de unde pleaca si taxi-urile, pe care îl găsești în [/gps - Jobs -> Taximetrist]. Dupa ce ai selectat masina dorita de la [Objectul Albastru] trebuie sa tastezi comanda [/duty] pentru a fi la datorie. P.S: Pentru a deschide meniul cu toate comenzile apasa tasta [/F7]. 
-
 :::details Locatia in /gps
 ![](https://i.imgur.com/UisdSqH.png){.framed-photo}
 :::
+
 ## Pe server avem două variante pentru acest job:
 
 Cu playeri – Poți prelua alți jucători ca pasageri din [F7], având opțiunea să folosești „maimuța” (metoda prin care poti creste pretul per KM in taximetru), însă există riscul de a fi prins. Poți prelua un nou apel doar după ce ai finalizat cursa pentru apelul curent
