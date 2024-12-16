@@ -14,8 +14,8 @@ Ai nevoie de o barcă și unelte specifice pentru a avea succes în acest job. P
 
 Pentru a începe acest job, trebuie să mergi la Primărie ([/gps - Primărie]) unde un NPC de la tejghea te va introduce in meniul interactiv de unde poti selecta job-ul "Pescar".
 
-:::details NPC
-<img src="https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-raw-sea-bass-fresh-seabass-fish-isolated-on-white-background-with-png-image_9225167.png" alt="pozaInventar" width="300" height="300" style="display: block; margin: 0px auto;" >
+:::details Locatie Primarie
+<img src="https://imgur.com/qE5Pk08" alt="pozaPrimarie" width="300" height="300" style="display: block; margin: 0px auto;" >
 :::
 
 Dupa ce ai finalizat primul pas trebuie cumperi si echipamentul corespunzator. Vizitează magazinul de unelte de pescuit pentru a cumpăra o undiță și momeală de bază. Dacă preferi să economisești bani, poți colecta rame din [/gps - Loc rame].
