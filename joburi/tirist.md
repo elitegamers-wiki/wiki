@@ -9,6 +9,9 @@ Traseele sunt tematice, în funcție de tipul de marfă transportată, iar desti
 
 ## Cum mă angajez?
 Pentru a începe acest job, trebuie să ai un permis de conducere. Permisul se obține de la secția de poliție, trecând mai întâi un test teoretic și apoi unul practic. După ce ai permisul, trebuie să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți va permite să selectezi jobul de trucker.
+:::details Locatie Primarie
+![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
+:::
 In cazul vrei să accesezi Skill 2 - Șofer Avansat, ai nevoie de o licență suplimentară pentru transportul de mărfuri periculoase si X ore. Licența poate fi obținută de la patronul job-ului [NPC-ul], care costă 30.000 de euro și este obligatorie pentru cursele de acest tip.
 
 ## Informații suplimentare:
