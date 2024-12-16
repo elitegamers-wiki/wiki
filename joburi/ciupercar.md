@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/3d7b3917-3dce-4e48-98cc-eee5e5c0730d)---
 outline: deep
 ---
 <img src="https://img.freepik.com/premium-photo/mushroom-picker-forest-picking-mushrooms_1120557-258.jpg" alt="pozaInventar" width="500" height="500" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
