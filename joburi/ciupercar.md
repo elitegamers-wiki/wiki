@@ -13,6 +13,7 @@ Pentru a putea începe acest job trebuie să ai 10 ore jucate și să mergi la P
 :::details Locatie Primarie
 ![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
 :::
+
 :::details NPC
 ![](https://i.imgur.com/fCMafsW.png){.framed-photo}
 :::
@@ -26,8 +27,11 @@ Culegător de Ciuperci Avansat (Skill 2): Permite culegerea ciupercilor într-o 
 - Nu există restricții în legătură cu transportul folosit.
 - Plata este în funcție de tipul de ciuperca vândută.
 - Pentru a transforma ciupercile halucinogene vă trebui să ajungi la ferma din Grapeseed (poză mai jos).
+
 :::details O`Neil House | Locatie pt Crafting Ciuperci Halucinogene
 ![](https://i.imgur.com/ImC0IVa.jpeg){.framed-photo}
 :::
 - Vei fi obligat să folosești uniforma specifică pe care o poți primi de la NPC-ul de la Bayview Lodge (poză mai jos).
-
+:::details Uniforma Ciupercar
+![](https://i.imgur.com/69Q3U7y.png){.framed-photo}
+:::
