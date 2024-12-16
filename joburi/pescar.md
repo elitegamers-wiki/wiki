@@ -36,7 +36,7 @@ Este cea mai simplă și rapidă variantă. Dacă nu vrei să pierzi timp, poți
 :::
 
 :::details Rame Premium
-![](https://i.imgur.com/ihPIqMZ.png){.framed-photo}
+![](https://i.imgur.com/YLxC2IF.png){.framed-photo}
 :::
 
 2. Ramele culese manual:
