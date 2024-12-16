@@ -18,6 +18,10 @@ Pentru a începe acest job, trebuie să mergi la Primărie ([/gps - Primărie]) 
 ![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
 :::
 
+:::details NPC
+![](https://i.imgur.com/ihPIqMZ.png){.framed-photo}
+:::
+
 Dupa ce ai finalizat primul pas trebuie cumperi si echipamentul corespunzator. Vizitează magazinul de unelte de pescuit pentru a cumpăra o undiță și momeală de bază. Dacă preferi să economisești bani, poți colecta rame din [/gps - Loc rame].
 (De scris despre zonele de pescuit)
 
