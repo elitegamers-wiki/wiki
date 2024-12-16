@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/3d7b3917-3dce-4e48-98cc-eee5e5c0730d)---
 outline: deep
 ---
 <img src="https://img.freepik.com/premium-photo/mushroom-picker-forest-picking-mushrooms_1120557-258.jpg" alt="pozaInventar" width="500" height="500" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
@@ -26,5 +26,8 @@ Culegător de Ciuperci Avansat (Skill 2): Permite culegerea ciupercilor într-o 
 - Nu există restricții în legătură cu transportul folosit.
 - Plata este în funcție de tipul de ciuperca vândută.
 - Pentru a transforma ciupercile halucinogene vă trebui să ajungi la ferma din Grapeseed (poză mai jos).
+:::details O`Neil House | Locatie pt Crafting Ciuperci Halucinogene
+![](https://i.imgur.com/ImC0IVa.jpeg){.framed-photo}
+:::
 - Vei fi obligat să folosești uniforma specifică pe care o poți primi de la NPC-ul de la Bayview Lodge (poză mai jos).
 
