@@ -13,7 +13,9 @@ Pentru a putea începe acest job trebuie să ai 10 ore jucate și să mergi la P
 :::details Locatie Primarie
 ![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
 :::
-
+:::details NPC
+![](https://i.imgur.com/fCMafsW.png){.framed-photo}
+:::
 ## Informații suplimentare:
 Skill-uri disponibile:
 
