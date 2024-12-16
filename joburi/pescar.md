@@ -52,6 +52,10 @@ Pentru pescarii mai experimentați, craftingul momelii din pești este cea mai e
 ## Informatii UTILE
 - După ce ai umplut ghiozdanul sau barca cu pești, îi poți vinde în funcție de preferințele tale. Ai opțiunea de a-i vinde la NPC-ul din [/gps] sau de a-i vinde pe piața publică jucătorilor care au nevoie de pești pentru skill-ul 2. 
 - Nivelurile jobului:
+
+:::details Punct Vanzare Pesti
+![](https://i.imgur.com/9ysxThB.png){.framed-photo}
+:::
 - Nivel 1 (25 ore): La acest nivel, vei prinde pești comuni precum carasul mic, plătica și hamsia. Este o etapă introductivă potrivită pentru cei care abia încep jobul.
 - Nivel 2 (200 ore): Acest nivel îți oferă acces la specii mai mari și mai valoroase, precum somnul, păstrăvul și știuca. Necesită momeli mai avansate. 
 - Zone de pescuit:
