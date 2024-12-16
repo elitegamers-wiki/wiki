@@ -8,7 +8,12 @@ Jobul de șofer de autobuz implică transportul pasagerilor între stații prest
 
 ## Cum pot incepe acest job?
 Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți obține de la secția de poliție, trecând mai întâi printr-un test teoretic, urmat de unul practic. După ce obții permisul, trebuie să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea te va introduce în meniul interactiv, de unde poți selecta locul de muncă dorit. In final, trebuie să mergi la sediul soferului de autobuz, pe care îl găsești în [/gps - Jobs -> Sofer de Autobuz]. Acolo, un NPC te va aștepta și vei putea interacționa cu el pentru a putea primi uniforma si incepe cursa dorita.
-
+:::details Locatie Primarie
+![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
+:::
+:::details NPC
+![](https://i.imgur.com/zTwqNZL.png){.framed-photo}
+:::
 ## Informatii suplimentare:
  - Acest job se poate practica incepend de la 0 ore, special pentru jucatorii noi care doresc sa inceapa un job spre cladirea unei cariere in orasul Los Santos,
  - Vehiculul pe care il vei conduce este un: "BRUTE Bus" (IMAGINE JOS), foarte bun cand vine vorba despre transportul cetatenilor oferind comfort si siguranta,
