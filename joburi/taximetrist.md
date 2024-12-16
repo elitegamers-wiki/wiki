@@ -18,7 +18,8 @@ Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți o
 ![](https://i.imgur.com/y4fhbHp.png){.framed-photo}
 :::
 După ce te-ai angajat de la Primărie, trebuie să mergi la locul de muncă de unde pleaca si taxi-urile, pe care îl găsești în [/gps - Jobs -> Taximetrist]. Dupa ce ai selectat masina dorita de la [Objectul Albastru] trebuie sa tastezi comanda [/duty] pentru a fi la datorie. P.S: Pentru a deschide meniul cu toate comenzile apasa tasta [/F7]. 
-:::details Locatia in /gps
+
+:::details Unde gasesti job-ul?
 ![](https://i.imgur.com/UisdSqH.png){.framed-photo}
 :::
 
